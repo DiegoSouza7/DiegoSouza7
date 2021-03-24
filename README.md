@@ -20,7 +20,7 @@
 
 ### My Github stats:
 
-<a href="https://github.com/syedammar111">
+<a href="https://github.com/DiegoSouza7">
  <p align="center">
   <img height="200em" alt="Diego Souza" src="https://github-readme-stats.vercel.app/api?username=DiegoSouza7&theme=buefy&show_icons=true" />
  <p/>
