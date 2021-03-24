@@ -20,7 +20,6 @@
 
 ### My Github stats:
 
-
  <p align="center">
   <img height="200em" alt="Diego Souza" src="https://github-readme-stats.vercel.app/api?username=DiegoSouza7&theme=buefy&show_icons=true" />
  <p/>
