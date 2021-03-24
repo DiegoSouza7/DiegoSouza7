@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Diego Souza</h2>
 <h3 align="center">I am an enthusiast of web development and the nerd world. I believe that programming is essential for problem solving and an open door for demonstrations of creativity.<h3/>
-<img src="https://komarev.com/ghpvc/?username=DiegoSouza7" alt="Diego Souza" data-canonical-src="https://komarev.com/ghpvc/?username=DiegoSouzas7" style="max-width:100%;">
+<img src="https://komarev.com/ghpvc/?username=DiegoSouza7&label=Profile%20views&color=0e75b6&style=flat" alt="Diego Souza" style="max-width:100%;">
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <a href="https://www.linkedin.com/in/diego-souza-reis/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Diego Souza-blue?style=flat-square&logo=linkedin"></a>
