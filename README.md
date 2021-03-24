@@ -21,6 +21,6 @@
 ### My Github stats:
 
 <a href="https://github.com/syedammar111">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoSouza7&theme=buefy&show_icons=true" />
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSouza7&theme=buefy&layout=compact" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DiegoSouza7&theme=buefy&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSouza7&theme=buefy&layout=compact" />
 </a>
