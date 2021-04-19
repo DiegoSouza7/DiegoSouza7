@@ -26,3 +26,7 @@
  <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSouza7&theme=buefy&layout=compact" />
  <p/>
+ 
+  <p align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=DiegoSouza7" />
+ <p/>
