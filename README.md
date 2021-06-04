@@ -7,7 +7,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🎓 &nbsp; Studying Systems Analysis and Development. <br />
-- 🔭 &nbsp; Looking for a job.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
