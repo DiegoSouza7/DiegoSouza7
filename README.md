@@ -7,7 +7,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 - 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas. <br />
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tecnologias</h3>
 
 - 🌐 &nbsp;
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/AdonisJS%20-%2320232a.svg?&style=for-the-badge&logo=adonisjs&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/styled%20components%20-%2320232a.svg?&style=for-the-badge&logo=styledcomponents&logoColor=%2361DAFB"/>
@@ -17,7 +17,7 @@
 - 🔧 &nbsp;
  ![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
 
-### My Github stats:
+### Meu Github:
 
  <p align="center">
   <img height="200em" alt="Diego Souza" src="https://github-readme-stats.vercel.app/api?username=DiegoSouza7&theme=buefy&show_icons=true" />
