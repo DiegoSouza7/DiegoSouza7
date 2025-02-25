@@ -1,5 +1,5 @@
 <h2 align="center">Oi 👋, Eu sou Diego Souza</h2>
-<h3 align="center">Sou um entusiasta do desenvolvimento web e do mundo nerd. Acredito que a programação é essencial para a resolução de problemas e uma porta aberta para demonstração de criatividade e inovação.<h3/>
+<h3 align="center">Sou um entusiasta do desenvolvimento web. Acredito que a programação é essencial para a resolução de problemas e uma porta aberta para demonstração de criatividade e inovação.<h3/>
 <img src="https://komarev.com/ghpvc/?username=DiegoSouza7&label=Profile%20views&color=0e75b6&style=flat" alt="Diego Souza" style="max-width:100%;">
 
 <h3> 🤝🏻 &nbsp; Conecte-se comigo</h3>
